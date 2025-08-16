@@ -29,10 +29,12 @@ Authentication configured via gcloud CLI (local) or a Service Account (productio
 
 ⚙️ Installation
 1. Clone the repository
+   
 git clone https://github.com/Shikhar-glich/ai-baby-image-generator.git
+
 cd ai-baby-image-generator
 
-2. Create and activate a virtual environment
+3. Create and activate a virtual environment
 python -m venv venv
 ```bash
 # On Linux/Mac
